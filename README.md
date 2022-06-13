@@ -12,6 +12,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mi-alkhamis&count_private=true&theme=light&showicons=true)]()
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-alkhamis&" alt="mi-alkhamis" /></p>
+
 
 
